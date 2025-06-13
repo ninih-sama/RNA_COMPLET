@@ -1,0 +1,10 @@
+pip install streamlit
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install scikit-learn
+pip install tensorflow
+
+streamlit run RNA_2.py
+
+avoir python 3.10.x pour les dependances
